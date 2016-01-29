@@ -1,3 +1,4 @@
+#Getting and Cleaning Data
 Coursera Course Project Jan 2016
 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. 
